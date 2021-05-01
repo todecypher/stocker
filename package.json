@@ -1,0 +1,17 @@
+{
+  "name": "stocker",
+  "version": "1.0.0",
+  "description": "Indicator based Stock buy/sell system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satyajit Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "promise": "^8.1.0",
+    "util": "^0.12.3"
+  }
+}
